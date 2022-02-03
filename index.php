@@ -22,7 +22,7 @@
           
          <nav>   
             <input id="nav-toggle" type="checkbox">
-            <img class="logo" src="image/logo.png" alt="">
+            <img class="logo" src="logo.png" alt="">
             <ul class="links">
             
                 <li><a href="#"> PACKS</a>
@@ -68,8 +68,8 @@
     <div class="body-area">
         <table class="imgtable">
             <tr >
-                <td><img class="tabletd" src="image/necklage.png" alt=""></td>
-                <td><img class="tabletd" src="image/bracelete.png" alt=""></td>
+                <td><img class="tabletd" src="necklage.png" alt=""></td>
+                <td><img class="tabletd" src="bracelete.png" alt=""></td>
             </tr>
         </table>
         
